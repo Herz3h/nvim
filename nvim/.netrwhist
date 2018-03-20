@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/var/www/kerato/app'
+let g:netrw_dirhist_2='/var/www/kerato/app/library/vendor/composer'
+let g:netrw_dirhist_3='/root/testa'
+let g:netrw_dirhist_4='/root/authserver/app/controllers/concerns'
+let g:netrw_dirhist_5='/root/subscriptions-koudoku/app/views/devise'
+let g:netrw_dirhist_6='/root/subscriptions-koudoku/app/views/devise/confirmations'
+let g:netrw_dirhist_7='/var/www/html/wp-content/plugins/loan_calculator'
+let g:netrw_dirhist_8='/home/herzeh'
+let g:netrw_dirhist_9='/home/client-name/conf/symfony'
